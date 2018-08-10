@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 aa
 bb
 cc
 dd
+=======
+nn
+mm
+vv
+>>>>>>> brav111
