@@ -3,6 +3,7 @@ ii
 pp
 
 
+<<<<<<< HEAD
 
 brav2_add
 brav2_add
@@ -11,3 +12,6 @@ local_commitOnly 2kaime
 local_commitOnly 2kaime
 local_commitOnly 2kaime
 
+=======
+3kime_commit
+>>>>>>> 3kaime commit
